@@ -11,6 +11,7 @@
 
 * Vine Reviews
 
+![](https://github.com/SuniAnalytics/Amazon_Vine_Analysis/blob/main/Resources/1.%20Paid.png)
 
 * Non-Vine Reviews
 
