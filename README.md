@@ -15,16 +15,26 @@
 
 * Non-Vine Reviews
 
+![](https://github.com/SuniAnalytics/Amazon_Vine_Analysis/blob/main/Resources/3.%20Unpaid%20Reviews.png)
+
 ### 5 Star Reviews
 
 * Number of 5 star vine reviews
 
+![](https://github.com/SuniAnalytics/Amazon_Vine_Analysis/blob/main/Resources/2.%205%20Star%20Review.png)
+
 * Number of 5 star non-vine reviews
+
+![](https://github.com/SuniAnalytics/Amazon_Vine_Analysis/blob/main/Resources/6.%20Unpaid%205Star.png)
 
 ### Percentages
 
 * % of 5 star vine reviews
 
+![](https://github.com/SuniAnalytics/Amazon_Vine_Analysis/blob/main/Resources/4.%205Star%20%25.png)
+
 * % of 5 star non-vine reviews
+
+![](https://github.com/SuniAnalytics/Amazon_Vine_Analysis/blob/main/Resources/5.%20Unpaid%20%25.png)
 
 ## Summary
