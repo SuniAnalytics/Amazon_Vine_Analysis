@@ -7,23 +7,23 @@
   
 ## Results
 
-* Total Reviews split by vine and non-vine
+### Total Reviews split by vine and non-vine
 
-** Vine Reviews
+* Vine Reviews
 
 
-** Non-Vine Reviews
+* Non-Vine Reviews
 
-* 5 Star Reviews
+### 5 Star Reviews
 
-** Number of 5 star vine reviews
+* Number of 5 star vine reviews
 
-** Number of 5 star non-vine reviews
+* Number of 5 star non-vine reviews
 
-* Percentages
+### Percentages
 
-** % of 5 star vine reviews
+* % of 5 star vine reviews
 
-** % of 5 star non-vine reviews
+* % of 5 star non-vine reviews
 
 ## Summary
