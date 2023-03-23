@@ -2,8 +2,8 @@
 
 ## Objective
 
-  Goal of the project is to anlayze amazon review program (Vine) to anlayze if there is any bias towards favorable reviews. 
-  To execute the project, used pySpark to run the ETL process to extract, transform and load into AWS RDS instance. Further, anlayse the data to key questions and provide insights.
+  Goal of the project is to anlayze amazon reviews program (Vine) to anlayze if there is any bias towards favorable reviews. 
+  To execute the project, used pySpark to run the ETL process to extract, transform and load into AWS RDS and pgadmin instance. Further, anlaysed the data to answer key questions and provide insights.
   
 ## Results
 
@@ -38,3 +38,9 @@
 ![](https://github.com/SuniAnalytics/Amazon_Vine_Analysis/blob/main/Resources/5.%20Unpaid%20%25.png)
 
 ## Summary
+
+Based on the analysis, 51% of reviews from vine program were 5 stars. This is 12% higher than 5 star non-vine reviews (39%). This clearly infers a strong positive bias by reviews in vine program. To add, 
+
+Additionally we could analyse the statistical distribution (mean, median and mode) of the star rating for the Vine and non-Vine reviews.
+
+
