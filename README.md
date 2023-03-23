@@ -7,7 +7,7 @@
   
 ## Results
 
-. Total Reviews split by vine and non-vine
+* Total Reviews split by vine and non-vine
 
 #### Vine Reviews
 
