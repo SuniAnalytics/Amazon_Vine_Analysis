@@ -39,8 +39,8 @@
 
 ## Summary
 
-Based on the analysis, 51% of reviews from vine program were 5 stars. This is 12% higher than 5 star non-vine reviews (39%). This clearly infers a strong positive bias by reviews in vine program. To add, 
+Based on the analysis, 51% of reviews from vine program were 5 stars. This is 12% higher than 5 star non-vine reviews (39%). This clearly infers a strong positive bias by reviews in vine program.
 
-Additionally we could analyse the statistical distribution (mean, median and mode) of the star rating for the Vine and non-Vine reviews.
+To determine the bias, we could anlalyse the shopping categories using a linear regression model to statistically analyse and determine the bias of 5 star reviews by paid vs non-paid reviews.
 
 
